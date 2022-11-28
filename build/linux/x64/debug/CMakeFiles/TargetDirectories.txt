@@ -1,0 +1,14 @@
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/install.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/CMakeFiles/app_stage_buddy.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/etiromi/Epitech_2022-2023/Flutter/app_stage_buddy/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
